@@ -1,6 +1,5 @@
 #Hagman 1.0
 #Once per run working beta
-#Made by Aleksa Crveni
 import tkinter
 from tkinter import * 
  # note that module name has changed from Tkinter in Python 2 to tkinter in Python 3
