@@ -1,6 +1,5 @@
 #Hagman 1.1
 #Once per run working beta
-#Made by Aleksa Crveni
 #Sredi globale gde ne treba
 #Resi resetovanje txtboxa
 import tkinter
