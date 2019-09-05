@@ -1,6 +1,5 @@
 #Hagman 1.2
 #Once per run working beta
-#Made by Aleksa Crveni
 #Sredi globale gde ne treba
 #Resi resetovanje txtboxa
 #Fixed bugs from 1.1
